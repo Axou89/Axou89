@@ -9,4 +9,4 @@ I'm currently at my second year at Paris Ynov
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
 ## Github Stats :
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Axou89)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Axou89&hide=ShaderLab,GLSL,HLSL)
