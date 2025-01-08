@@ -1,5 +1,5 @@
 # [Hi, I'm Axou89](https://github.com/Axou89) :
-I'm currently at my second year at Paris Ynov
+I'm currently at my forth year at Paris Ynov
 
 ## Connect with me :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/axel-senecal)
